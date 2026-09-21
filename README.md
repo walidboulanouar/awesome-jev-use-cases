@@ -397,6 +397,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history). Zsh autosuggestions that have Jev rank your last 100 distinct history entries and show the best match in grey with its score. 63 stars, TypeScript.
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli). Terminal tool that generates text and media through AI Gateway and can also evaluate typed questions. 805 stars, TypeScript.
 - [RafalWilinski/vibecheck](https://github.com/RafalWilinski/vibecheck). Chrome extension that rates a draft X post for virality and clarity before you publish. 41 stars, JavaScript.
+- [kaustav1996/reflex](https://github.com/kaustav1996/reflex) by @kaustav1996. Coding agent on Pi where each state-changing tool call goes through one Jev request of five Noul risk checks plus a risk Score, and code allows, asks or blocks according to the user's risk setting; protected paths always ask. Jev also picks the model tier for each prompt, sends back "done" claims that ran no verification, and drives a browser loop ported from jev-ultrafast. The author reports about 400 ms per decision. TypeScript, MIT.
 
 ### Routing
 
