@@ -405,6 +405,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 
 ### Data and search
 
+- [GPTCache](https://github.com/zilliztech/GPTCache) by @zc277584121. Optional Jev Noul checks judge whether a cached answer can be reused for a new query; application code combines compatibility scores, with a public reuse-compatibility benchmark.
 - [realZachi/pg-jev](https://github.com/realZachi/pg-jev). PostgreSQL extension for asking your tables questions in plain language. 204 stars, Shell, NOASSERTION.
 - [giuliosmall/pg_typesafe](https://github.com/giuliosmall/pg_typesafe). Pre-alpha PostgreSQL extension that calls Jev from SQL for categorical classification. Tested on PostgreSQL 16 and 17. 77 stars, C, MIT.
 - [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search). Web search where Jev picks sources, time ranges and search terms, then ranks Search1API results with visible scores. No generated answers. 199 stars, TypeScript, MIT.
