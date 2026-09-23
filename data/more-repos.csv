@@ -25,6 +25,7 @@ ajensenwaud/hermes-jev-plugin,https://github.com/ajensenwaud/hermes-jev-plugin,2
 iJ03l/jear,https://github.com/iJ03l/jear,2,Rust,Jev-routed client for NEAR AI Cloud inference and IronClaw agents.,2026-09-19
 adarshmishra07/jcm-router,https://github.com/adarshmishra07/jcm-router,2,TypeScript,"Local proxy that picks the Claude model and effort per message using TypeSafe Jev. Routes subagents, leaves your cached main chat alone.",2026-09-19
 prismhq/jev-router,https://github.com/prismhq/jev-router,2,Python,"Open-source LLM router that uses TypeSafe's Jev to pick a model, on top of LiteLLM.",2026-09-19
+kylemclaren/jevsearch,https://github.com/kylemclaren/jevsearch,2,TypeScript,Site search that understands the question. Ranked by TypeSafe's Jev model.,2026-09-23
 tedliou/decision-model-playground,https://github.com/tedliou/decision-model-playground,1,Python,A local playground for comparing Laya and Jev decision models with article recommendations.,2026-09-19
 Mandrilsquad1441/jev-model-router,https://github.com/Mandrilsquad1441/jev-model-router,1,TypeScript,"Pick the best AI model and reasoning effort for any task in ~1s. Plugin for Claude Code, Claude Desktop and Codex, powered by TypeSafe's Jev decision model and live OpenRouter pricing. Balance intelligence, speed and cost, or choose your priority.",2026-09-19
 TokenTrim/jev-routing-experiment,https://github.com/TokenTrim/jev-routing-experiment,1,Python,Benchmarking TypeSafe's Jev decision model as a cost-efficient LLM router on RouterArena.,2026-09-19
