@@ -409,6 +409,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [giuliosmall/pg_typesafe](https://github.com/giuliosmall/pg_typesafe). Pre-alpha PostgreSQL extension that calls Jev from SQL for categorical classification. Tested on PostgreSQL 16 and 17. 77 stars, C, MIT.
 - [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search). Web search where Jev picks sources, time ranges and search terms, then ranks Search1API results with visible scores. No generated answers. 199 stars, TypeScript, MIT.
 - [pithings/advocaat](https://github.com/pithings/advocaat). Small type-safe client for asking questions about your data and getting typed answers in one request. 84 stars, TypeScript, MIT.
+- [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar). Daily arXiv and bioRxiv radar: every new paper is judged against plain-English interests, one Noul per interest, and the picks are published as a page and an RSS feed from GitHub Actions. 501 papers judged in 33 seconds for $0.0196 in a measured run. [Live output](https://eliot5566.github.io/JEV-Paper-Radar/public/).
 
 ### Games, trading and hardware
 
