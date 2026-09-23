@@ -110,3 +110,4 @@ hugo-alves/jev-router-playground,https://github.com/hugo-alves/jev-router-playgr
 MoonTory/pi-jev-harness,https://github.com/MoonTory/pi-jev-harness,0,TypeScript,"Pi extension: TypeSafe Jev routes turns, pre-fetches context, trims tool results, catches loops and guards tool calls.",2026-09-19
 its-panzer/skilltree,https://github.com/its-panzer/skilltree,0,JavaScript,"A local-first skill library and visual skill tree, with Jev routing and MCP access.",2026-09-19
 ussyverse/hermes-jev-router,https://github.com/ussyverse/hermes-jev-router,0,Python,Experimental Hermes plugin: Jev-assisted model routing plans with budget and capability constraints. API access pending.,2026-09-19
+kylemclaren/jevql,https://github.com/kylemclaren/jevql,12,Go,"Semantic SQL for Postgres, powered by Jev.",2026-09-23
