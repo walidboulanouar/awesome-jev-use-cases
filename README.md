@@ -372,7 +372,7 @@ The next tier by likes, grouped by what the demo does.
 
 ## Open source
 
-Repositories with a working project and a README that mentions Jev or TypeSafe. Stars are a snapshot of 2026-09-19.
+Repositories with a working project and a README that mentions Jev or TypeSafe. Unless an entry says otherwise, stars are a snapshot of 2026-09-19.
 
 ### Browser and computer use
 
@@ -382,6 +382,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [jkudish/jev-browser](https://github.com/jkudish/jev-browser). Runs a real headless browser through an MCP server, a CLI or a library. It picks one action per step from the clickable elements on the page. 135 stars, TypeScript, MIT.
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser). Node app controlling a headed Chromium window by voice. Jev picks intent and target on each partial transcript and Playwright acts. 110 stars, JavaScript, MIT.
 - [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev). Navigates a live Mobilerun phone with Jev. The demo opens Uber and enters a route in about 21 seconds for 9 actions. 209 stars, JavaScript, MIT.
+- [socai-io/jev-social](https://github.com/socai-io/jev-social) by [@IRONICBo](https://github.com/IRONICBo). Jev uses Choice questions to select the platform and each bounded read-only operation; SocAI runs the operation in a logged-in Chrome session and preserves source-linked Instagram, TikTok, or LinkedIn evidence for a cited report. 47 stars as of 2026-09-23, JavaScript, MIT.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock). Chrome extension that asks Jev whether a DOM element is an ad and removes it. A side project that needs your own key. 53 stars, JavaScript, MIT.
 - [kitze/unclutter](https://github.com/kitze/unclutter). WXT browser extension that removes page clutter using Jev, with reusable template rules. 129 stars, TypeScript, MIT.
 
