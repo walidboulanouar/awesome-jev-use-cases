@@ -402,6 +402,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 
 - [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router). Per-turn router for Claude Code and OpenAI Codex. Simple work goes to a fast tier and hard work to a strong tier. 191 stars, JavaScript, MIT.
 - [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter). Router that picks among models, subagents and tools from one candidate set. Jev answers a Choice question. Code enforces permissions. 81 stars, TypeScript, MIT.
+- [Codex Jev Router](https://github.com/suenot/codex-jev-router) by @suenot. Jev answers Choice and Noul questions about a short task summary; local code chooses a Codex subagent model and reasoning effort, with a Sol fallback when the decision is uncertain.
 
 ### Data and search
 
