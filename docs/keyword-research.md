@@ -61,7 +61,7 @@ Run on 2026-09-20 with the enrich skill's search predictor, a YouTube search thr
 
 | Signal | Reading |
 | --- | --- |
-| YouTube | 65 videos about Jev, published 2026-09-15 to 2026-09-20, with 2.68 million views combined. Largest: Rob Shocks 359,278 views, Greg Isenberg 336,814, Caleb Writes Code 203,281, Sam Witteveen 197,796, Syntax 197,675. Full list in [data/youtube.csv](../data/youtube.csv). |
+| YouTube | 65 videos about Jev, published 2026-09-15 to 2026-09-20, with 2.68 million views combined. Largest: Rob Shocks 359,278 views, Greg Isenberg 337,547, Caleb Writes Code 203,281, Sam Witteveen 197,796, Syntax 197,781. Full list in [data/youtube.csv](../data/youtube.csv). |
 | X | 74 demo posts with video. The top one has 10,435 likes. Vercel's free-window post has 552,601 views. |
 | News | The predictor found 50 articles in 7 days, including TechSpot and 36Kr. |
 | Vercel | Reports about 13% of AI Gateway teams tried Jev on day one. This is Vercel's number. |
