@@ -351,6 +351,7 @@ The next tier by likes, grouped by what the demo does.
 - [TypeSafe Typewriter](https://x.com/stevekrouse/status/2100287368221659289) by [@stevekrouse](https://x.com/stevekrouse). Asks sixteen judgments about your text again on each keystroke.
 - [Lurk](https://x.com/mxfp4/status/2101070906852298910) by [@mxfp4](https://x.com/mxfp4). Finds and tracks Reddit threads so your content can get cited by AI, at no cost.
 - [Jev Detector](https://x.com/jozef_gherman/status/2100627898436571555) by [@jozef_gherman](https://x.com/jozef_gherman). AI slop detector that scans about 10,000 words in 2 seconds.
+- [Refix](https://refix.ai) by [@refix_ai](https://x.com/refix_ai). Growth: AI that helps your product grow faster on autopilot by running product experiments, SEO, content, and ads.
 
 ### Research and data
 
