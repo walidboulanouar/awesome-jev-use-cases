@@ -435,6 +435,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [razorback16/openjev](https://github.com/razorback16/openjev). Open-source decision server that answers typed questions with probabilities and a confidence in tens of milliseconds. 445 stars, Python, Apache-2.0.
 - [logan-markewich/jeff](https://github.com/logan-markewich/jeff). Self-hosted stand-in for the Jev API on a 400M-parameter GLiFormer, usable with the official SDK. Less accurate on reasoning-heavy tasks. 251 stars, Python, MIT.
 - [Mapika/decider](https://github.com/Mapika/decider). Language model fine-tuned from Qwen3.5-2B that returns calibrated probabilities for typed questions in one forward pass and generates no text. 504 stars, Python, Apache-2.0.
+- [feder-cr/jev](https://github.com/feder-cr/jev). jevos, a MiniCPM5-1B model cut to 17 layers with a one-logit head, GGUF q4_k_m at 619 MB. Answers only yes/no questions in one forward pass with llama.cpp on CPU, no GPU, over Jev's own /v1/systemone wire format. 879 stars, Python, MIT.
 
 ### MCP, skills and clients
 
