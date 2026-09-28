@@ -441,6 +441,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp). MCP server that lets coding agents such as Claude Code and Codex call Jev and get probabilities to branch on. 312 stars, Go, MIT.
 - [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp). MCP server giving agents ten Jev judgment tools, such as verifying claims against evidence and screening content before it enters context. 384 stars, TypeScript, MIT.
 - [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill). Agent skill for writing and improving Jev programs. It teaches question design and how to diagnose wrong answers. 134 stars.
+- [aaddrick/building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev). Unofficial agent skill that teaches coding agents the Jev API and when to use Choice, Score, or Noul. It links 150+ community projects sorted by how they work, with a code sketch for each. 87 stars, MIT.
 
 ### More projects
 
