@@ -609,6 +609,7 @@ A second GitHub sweep on 2026-09-19 found 111 more repositories that mention Jev
 - [vinilana/live-jev](https://github.com/vinilana/live-jev). 2D autonomous car simulation in the browser, driven by TypeSafe's Jev decision model. 19 stars.
 - [Dimesio/typesafe-chess](https://github.com/Dimesio/typesafe-chess). FUn little experiment with Typesafe AI Jev Model playing chess against stockfish :). 2 stars.
 - [tedliou/decision-model-playground](https://github.com/tedliou/decision-model-playground). A local playground for comparing Laya and Jev decision models with article recommendations. 1 stars.
+- [cwdx/1-million-emojis](https://github.com/cwdx/1-million-emojis). Shared 1000 × 1000 emoji canvas where, after each visitor stroke, Jev answers one Choice over named emoji and square pairs next to it and a Noul on whether the stroke is unfinished; live at [chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji). 0 stars.
 
 #### Other
 
