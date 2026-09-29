@@ -62,6 +62,7 @@ The 30 most-liked demos, ranked. Click a card to open the original post. Each ca
 - [Start here](#start-here)
 - [Browse by area](#browse-by-area)
 - [Try Jev free right now](#try-jev-free-right-now)
+- [Research context](#research-context)
 - [Numbers at a glance](#numbers-at-a-glance)
 - [The first week in numbers](#the-first-week-in-numbers)
 - [Most-liked demos](#most-liked-demos)
@@ -240,6 +241,10 @@ Every tracked demo, grouped by what it does and ranked by likes inside each grou
 [Vercel's earlier post](https://x.com/vercel/status/2101077346203971900) says Jev was adopted faster than any other model in AI Gateway history. It reports about 13% of teams in the first day, 2x the GPT-5.6 family and 6x Fable 5.1. Those are Vercel's figures and I have not verified them. The free-window post had 2,043 likes and 552,601 views when I read it.
 
 To use anything in this list, copy the pattern, get a key, and start with one question type. The [Patterns](#patterns) section shows how.
+
+## Research context
+
+- [Jev in the Wild](https://arxiv.org/abs/2609.30216) - Data-driven survey of 2,170 public GitHub Jev projects, documenting early ecosystem growth, application domains, and decision-use patterns beyond the demo examples collected here.
 
 ## Numbers at a glance
 
