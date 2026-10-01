@@ -388,6 +388,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [socai-io/jev-social](https://github.com/socai-io/jev-social) by [@IRONICBo](https://github.com/IRONICBo). Jev uses Choice questions to select the platform and each bounded read-only operation; SocAI runs the operation in a logged-in Chrome session and preserves source-linked Instagram, TikTok, or LinkedIn evidence for a cited report. 47 stars as of 2026-09-23, JavaScript, MIT.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock). Chrome extension that asks Jev whether a DOM element is an ad and removes it. A side project that needs your own key. 81 stars, JavaScript, MIT.
 - [kitze/unclutter](https://github.com/kitze/unclutter). WXT browser extension that removes page clutter using Jev, with reusable template rules. 304 stars, TypeScript, MIT.
+- [sedum-dev/sedum](https://github.com/sedum-dev/sedum) by [@devnacho](https://github.com/devnacho). Plain-English Playwright tests: in goal mode Jev answers a Choice per turn to pick the next action and its target, authored steps use a Choice to pick each step's element, and verify claims are two Noul questions (holds, contradicted). The author reports $38–$91 a month for a 20-person team's PR suite against $4,875 on a per-step platform, and 14 s vs 69 s for a 17-step checkout. TypeScript, MIT.
 
 ### Coding agents and developer tools
 
