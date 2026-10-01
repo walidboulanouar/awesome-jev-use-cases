@@ -623,6 +623,7 @@ A second GitHub sweep on 2026-09-19 found 111 more repositories that mention Jev
 
 #### Other lists
 
+- [vicfei/awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts). 43 Jev question-design patterns (Choice/Score/Noul) with templates, thresholds, and failure modes, plus 10 anti-patterns. CC0. 0 stars as of 2026-10-02.
 - [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev). Unofficial list of insanely useful TypeSafe AI Jev / System One projects. 2 stars.
 - [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev). A source-backed field guide to Jev with SDKs and live demos. 528 stars as of 2026-09-26.
 - [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill). A collection of Jev use cases, workflows and agent skills. 501 stars as of 2026-09-26.
