@@ -419,6 +419,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search). Web search where Jev picks sources, time ranges and search terms, then ranks Search1API results with visible scores. No generated answers. 469 stars, TypeScript, MIT.
 - [pithings/advocaat](https://github.com/pithings/advocaat). Small type-safe client for asking questions about your data and getting typed answers in one request. 93 stars, TypeScript, MIT.
 - [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar). Daily arXiv and bioRxiv radar: every new paper is judged against plain-English interests, one Noul per interest, and the picks are published as a page and an RSS feed from GitHub Actions. 501 papers judged in 33 seconds for $0.0196 in a measured run. [Live output](https://eliot5566.github.io/JEV-Paper-Radar/public/).
+- [jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) by @shimo4228. Daily research monitor where plain Python runs the loop and Jev screens each new paper or repository against the user's open questions with Noul and Score questions, while code applies the thresholds. A separate LLM writes the Markdown note, and Jev scores each section on a rubric. Python, MIT.
 
 ### Games, trading and hardware
 
