@@ -427,6 +427,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [hr98w/jev-visual](https://github.com/hr98w/jev-visual). Educational Apple Silicon project using Qwen3.5-0.8B with MLX to answer several questions about one image via browser UI, CLI or HTTP API. 287 stars, Python, MIT.
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader). Trading bot that asks Jev for a buy or sell decision each Monad block on the Kuru MON-USDC order book and posts a post-only limit order. 2,461 stars, TypeScript, MIT.
 - [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone). Simulated quadrotor flying a five-station MuJoCo obstacle course by camera alone, with Jev judging the situation at about 2.5 Hz. 198 stars, Python, MIT.
+- [AlperKartkaya/FlightBench](https://github.com/AlperKartkaya/FlightBench). Compete with Jev in landing a plane. Jev lands the plane by receiving the aircraft state and answering four `Choice` questions (for aileron, elevator, rudder, and throttle) at about 2.3 Hz. 0 stars, Python, MIT.
 
 ### Open models and alternatives
 
