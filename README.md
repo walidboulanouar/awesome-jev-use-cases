@@ -402,6 +402,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli). Terminal tool that generates text and media through AI Gateway and can also evaluate typed questions. 816 stars, TypeScript.
 - [RafalWilinski/vibecheck](https://github.com/RafalWilinski/vibecheck). Chrome extension that rates a draft X post for virality and clarity before you publish. 47 stars, JavaScript.
 - [kaustav1996/reflex](https://github.com/kaustav1996/reflex) by @kaustav1996. Coding agent on Pi where each state-changing tool call goes through one Jev request of five Noul risk checks plus a risk Score, and code allows, asks or blocks according to the user's risk setting; protected paths always ask. Jev also picks the model tier for each prompt, sends back "done" claims that ran no verification, and drives a browser loop ported from jev-ultrafast. The author reports about 400 ms per decision. TypeScript, MIT.
+- [mu](https://github.com/qybaihe/mu) by @qybaihe. Coding agent and desktop app built on Pi that asks Jev Noul, Choice and Score questions at 38 decision points, such as which chunks of a long tool output enter the context, whether a rule-flagged command was asked for and whether "done" was verified; every point acts on its verdicts by default and can be switched to shadow or off. In the authors' own replay benchmark, goal-aware test-log selection by Jev cut 40-46% of the log without losing a required line.
 
 ### Routing
 
