@@ -156,7 +156,7 @@ Every tracked demo, grouped by what it does and ranked by likes inside each grou
 - [A filter for reply-guy comments](https://x.com/iannuttall/status/2100888635943883244) by [@iannuttall](https://x.com/iannuttall), 250 likes.
 - [X timeline labeler](https://x.com/the_cyw/status/2101020586931875932) by [@the_cyw](https://x.com/the_cyw), 79 likes.
 - [700 live ads in 40 seconds](https://x.com/Yarilo7brigada/status/2100946657965912253) by [@Yarilo7brigada](https://x.com/Yarilo7brigada), 59 likes.
-- [AI slop detector](https://x.com/kraayenJon/status/2101157548346794059) by [@kraayenJon](https://x.com/kraayenJon), 0 likes.
+- [AI slop detector](https://madewithjev.com/free-tools/ai-slop-detector) by [@kraayenJon](https://x.com/kraayenJon). Jev answers 35 yes/no questions in one call to score a page for 34 tells of AI-generated design and copy.
 
 ### Apps and tools
 
