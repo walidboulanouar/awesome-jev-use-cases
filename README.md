@@ -388,6 +388,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [socai-io/jev-social](https://github.com/socai-io/jev-social) by [@IRONICBo](https://github.com/IRONICBo). Jev uses Choice questions to select the platform and each bounded read-only operation; SocAI runs the operation in a logged-in Chrome session and preserves source-linked Instagram, TikTok, or LinkedIn evidence for a cited report. 47 stars as of 2026-09-23, JavaScript, MIT.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock). Chrome extension that asks Jev whether a DOM element is an ad and removes it. A side project that needs your own key. 81 stars, JavaScript, MIT.
 - [kitze/unclutter](https://github.com/kitze/unclutter). WXT browser extension that removes page clutter using Jev, with reusable template rules. 304 stars, TypeScript, MIT.
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) by [@Finderchangchang](https://github.com/Finderchangchang). Android chat copilot: accessibility service reads the visible QQ, X, Feishu/Lark or WhatsApp chat; Jev answers Choice, Score and Noul questions on intent, danger and whether to reply with substance, then a Choice ranks three replies drafted by a separate chat model; the app fills the pick and never sends. 7,657 stars as of 2026-10-12, Kotlin, MIT.
 
 ### Coding agents and developer tools
 
