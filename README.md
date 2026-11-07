@@ -388,6 +388,7 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [socai-io/jev-social](https://github.com/socai-io/jev-social) by [@IRONICBo](https://github.com/IRONICBo). Jev uses Choice questions to select the platform and each bounded read-only operation; SocAI runs the operation in a logged-in Chrome session and preserves source-linked Instagram, TikTok, or LinkedIn evidence for a cited report. 47 stars as of 2026-09-23, JavaScript, MIT.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock). Chrome extension that asks Jev whether a DOM element is an ad and removes it. A side project that needs your own key. 81 stars, JavaScript, MIT.
 - [kitze/unclutter](https://github.com/kitze/unclutter). WXT browser extension that removes page clutter using Jev, with reusable template rules. 304 stars, TypeScript, MIT.
+- [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) by [@onlyreadai](https://github.com/onlyreadai). Chrome extension that keeps AI agents read-only on the sites you pick. Jev judges whether each request the agent's browser sends would change data, as a Noul question, and the extension blocks the ones that would. TypeScript, AGPL-3.0.
 
 ### Coding agents and developer tools
 
